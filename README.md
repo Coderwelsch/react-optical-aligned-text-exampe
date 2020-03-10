@@ -1,5 +1,7 @@
 # Optical Aligned Text Example
 
+![Teaser](./doc/teaser-image.png)
+
 Hey folks! This is the example project for the optical-aligned-text react component.
 
 You can also edit this example on codesandbox:  
